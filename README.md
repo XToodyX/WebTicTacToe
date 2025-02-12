@@ -12,7 +12,3 @@ A simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 ## Credits
 
 Favicon created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/tic-tac-toe)
-
-## License
-
-This project is licensed under the MIT License.
